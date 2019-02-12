@@ -1,2 +1,2 @@
-# Aps1Assignments-Naloga1-
+# Aps1Assignments
 Aps 1 assignments
